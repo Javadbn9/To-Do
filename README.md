@@ -5,6 +5,7 @@ It supports Speech Recognition, multilingual interface (English & Persian), and 
 
 ---
 <img src="result.png" alt="EyeYOLO Demo" width="550"/>
+To view the projec👉 
 Live demo: https://splendid-nasturtium-618f62.netlify.app/
 
 ---
