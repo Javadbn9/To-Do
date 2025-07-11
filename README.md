@@ -5,3 +5,15 @@ It supports Speech Recognition, multilingual interface (English & Persian), and 
 
 ---
 <img src="result.png" alt="EyeYOLO Demo" width="550"/>
+Live demo: https://splendid-nasturtium-618f62.netlify.app/
+
+---
+- Speech recognition with API
+- Persian and English language support
+- Storing tasks in localStorage
+- Delete reminders easily
+  
+Made with:
+- Html 
+- CSS
+- JavaScript 
