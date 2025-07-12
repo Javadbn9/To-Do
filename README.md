@@ -1,7 +1,5 @@
 # To-Do
-A website for daily activities
-A smart, lightweight voice-powered reminder app built with HTML, TailwindCSS, and Vanilla JavaScript.
-It supports Speech Recognition, multilingual interface (English & Persian), and localStorage for saving reminders permanently in your browser.
+A simple, multilingual reminder application built with HTML, JavaScript, and CSS. It allows users to add, delete, and toggle reminders, with support for Persian (Farsi) and English languages. The app also includes a speech recognition feature for adding reminders via voice input, optimized for Chrome browsers. It can save all activities to local storage and they will remain even when you close it.
 
 ---
 <img src="result.png" alt="EyeYOLO Demo" width="550"/>
